@@ -3,7 +3,7 @@ function checkTemp(temp){
     {
         return -1
     }
-    else if(checkTemp>=21 && checkTemp<=40)
+    else if(temp>=21 && temp<=40)
     {
        return 0   
     }
